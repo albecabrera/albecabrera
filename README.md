@@ -13,7 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliocabrera.framer.website]()
 
-- 💬 Ask me about **react & react native.**
+- 💬 Ask me about **Notion and Miro.**
+  
+- 💬 I´ll learn **React and Reat Native.**
 
 - 📫 How to reach me **albe.cabrera@yahoo.de**
 

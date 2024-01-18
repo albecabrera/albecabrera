@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Pomodoro Timer**
 
-- 🌱 I’m currently learning **Figma, Farmer and Spline.**
+- 🌱 I’m currently learning **Figma, Farmer and Blender 3D.**
 
 - 👨‍💻 All of my projects are available at [https://portfoliocabrera.framer.website]()
 

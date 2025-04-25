@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Notion and Miro.**
   
-- 💬 I´ll learn **React and Reat Native.**
+- 💬 I´ll learn **React, Python, Java and SQL.**
 
 - 📫 How to reach me **albe.cabrera@yahoo.de**
 
